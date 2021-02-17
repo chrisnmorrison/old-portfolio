@@ -76,13 +76,13 @@ body {
 
 .currently {
   color: #fff;
-  font-size: 35px;
+  font-size: 20px;
   font-family: 'Poppins', sans-serif;
-  font-weight: 600;
+  font-weight: 300;
   line-height: 40px;
   margin: 0 0 10px 0;
   /* letter-spacing: -2.5px; */
-  letter-spacing: 0;
+  letter-spacing: 1px;
 }
 
 .contact-currently {
@@ -391,7 +391,7 @@ website:    http://www.themepunch.com
 /*-------------------------------------------------*/
 p {
   font-size: 14px;
-  color: #999999;
+  color: #616161;
   font-family: 'Poppins', sans-serif;
   font-weight: 300;
   line-height: 24px;
